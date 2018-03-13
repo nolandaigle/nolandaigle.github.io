@@ -1,16 +1,13 @@
 body {
-    background-color: #EFEFEF;
+    background-color: #EFEEEF;
     font-family: "Georgia", Georgia, serif;
 }
 
 h1 {
     margin: auto;
     width: 50%;
-    color: black;
-    border: 3px solid black;
     padding: 10px;
     text-align: center;
-    background-color: #FFFFFF;
 
 }
 
@@ -40,6 +37,24 @@ li {
 .topbar {
     margin:auto;
     width:50%;
+    vertical-align: bottom;
+    display: block;
+}
+
+.half-banner {
+    margin-left: 23%;
+    width: 117%;
+    text-align:center;
+
+    padding-bottom: 25%;
+}
+
+.banner {
+    margin-left: 23%;
+    width: 117%;
+    text-align:center;
+
+    padding-bottom: 42%;
 }
 
 .imageText {
@@ -47,7 +62,7 @@ li {
 }
 
 .project {
-      margin:auto;
+    margin:auto;
     width:50%;
     padding:10px;
     border: 3px solid #A9A9A9;
