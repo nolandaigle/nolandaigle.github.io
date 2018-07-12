@@ -109,8 +109,10 @@ html, body {
 }
 
 .post-desc {
-  margin: 0;
+  margin: 10px;
   padding: 8px;
+  border-color: #000000;
+  border-radius: 5px;
 }
 
 .hero {
